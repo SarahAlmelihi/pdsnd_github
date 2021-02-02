@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+02/02/2021
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington using python.
 
 ### Files used
-Include the files used
+Randomly selected data for the first six months of 2017 are provided for all three cities.
+
+data provided by https://www.motivateco.com/
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+UDACITY
+https://www.udacity.com/
+MISK
+https://misk.org.sa/
